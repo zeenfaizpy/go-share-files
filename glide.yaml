@@ -1,0 +1,4 @@
+package: github.com/zeenfaizpy/go-share-files
+import:
+- package: github.com/mdp/qrterminal
+  version: ^1.0.0

@@ -1,0 +1,13 @@
+hash: 46be0820bde2f1e450fe96e41c5d7a00ace3961d3094e51443745107373edd0a
+updated: 2018-04-01T14:06:27.956880928+04:00
+imports:
+- name: github.com/mdp/qrterminal
+  version: 0610c700bc3844bd7ef9c27f032fe448fe224f40
+- name: github.com/rsc/qr
+  version: 48b2ede4844e13f1a2b7ce4d2529c9af7e359fc5
+- name: rsc.io/qr
+  version: 48b2ede4844e13f1a2b7ce4d2529c9af7e359fc5
+  subpackages:
+  - coding
+  - gf256
+testImports: []
